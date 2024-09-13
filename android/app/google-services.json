@@ -1,0 +1,449 @@
+{
+  "project_info": {
+    "project_number": "162577024912",
+    "firebase_url": "https://markcdia-default-rtdb.firebaseio.com",
+    "project_id": "markcdia",
+    "storage_bucket": "markcdia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:36cec65a331e92a9289515",
+        "android_client_info": {
+          "package_name": "com.fastonline.suatv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-7al9p406vuttkalkitsb72avlq0qnett.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fastonline.suatv",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:68ac895c314b1d4e289515",
+        "android_client_info": {
+          "package_name": "com.mycompany.gestortv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-rha9c34hqs999t13lvaq183phmpnq9at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gestortv",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:d8e9aa11b691882a289515",
+        "android_client_info": {
+          "package_name": "com.mycompany.iptvmanual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:91330c08439443d2289515",
+        "android_client_info": {
+          "package_name": "com.mycompany.pague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:93c903a6168290a0289515",
+        "android_client_info": {
+          "package_name": "com.mycompany.workcdia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-40hisi1lr06hqmqhrduqjdgq64u1i8fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.workcdia",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:4f2d19c1472a0c6c289515",
+        "android_client_info": {
+          "package_name": "com.paguecanaisWeb.pix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:47a3c84ede27b620289515",
+        "android_client_info": {
+          "package_name": "com.webstock.notifique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:aacdad54c8e30df7289515",
+        "android_client_info": {
+          "package_name": "com.webstock.pague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:eb91cc8bb89c063e289515",
+        "android_client_info": {
+          "package_name": "com.webstock.paguemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162577024912:android:06905a03a1002675289515",
+        "android_client_info": {
+          "package_name": "com.webstock.renoveme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162577024912-4q60n5tefjmolr42qik25af8c0cvqqes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webstock.renoveme",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "162577024912-78vugqm0fau65jsh7u9ihdk40c07b4m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webstock.renoveme",
+            "certificate_hash": "0c0555d9dd50e38a09a92b086b2b830d1eb61e61"
+          }
+        },
+        {
+          "client_id": "162577024912-kbmh5o95tn5q8ofgm9oa9dnef7p25p65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webstock.renoveme",
+            "certificate_hash": "f519b499b1bf03048c4b2664c786a295ef415f6d"
+          }
+        },
+        {
+          "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avAEfBZ0RvSzWmU1mh7Sb-o_Kx6Q_eM"
+        },
+        {
+          "current_key": "AIzaSyB1muPpEdy4knXhsnPEsa0TJqvihuEEps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162577024912-cr94ocjfe354ovq101t6elirnetapd41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162577024912-c9ctlrio1tce20up9bj9qqcglc94ghhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.iptvmanual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
